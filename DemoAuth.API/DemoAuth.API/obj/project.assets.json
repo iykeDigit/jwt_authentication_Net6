@@ -2122,11 +2122,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\IKECHUKWU\\source\\repos\\.Net6Series\\DemoAuth.API\\DemoAuth.API\\DemoAuth.API.csproj",
+      "projectUniqueName": "C:\\Users\\IKECHUKWU\\source\\repos\\.Net6Series\\jwt_authentication_Net6\\DemoAuth.API\\DemoAuth.API\\DemoAuth.API.csproj",
       "projectName": "DemoAuth.API",
-      "projectPath": "C:\\Users\\IKECHUKWU\\source\\repos\\.Net6Series\\DemoAuth.API\\DemoAuth.API\\DemoAuth.API.csproj",
+      "projectPath": "C:\\Users\\IKECHUKWU\\source\\repos\\.Net6Series\\jwt_authentication_Net6\\DemoAuth.API\\DemoAuth.API\\DemoAuth.API.csproj",
       "packagesPath": "C:\\Users\\IKECHUKWU\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\IKECHUKWU\\source\\repos\\.Net6Series\\DemoAuth.API\\DemoAuth.API\\obj\\",
+      "outputPath": "C:\\Users\\IKECHUKWU\\source\\repos\\.Net6Series\\jwt_authentication_Net6\\DemoAuth.API\\DemoAuth.API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -2148,11 +2148,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\IKECHUKWU\\source\\repos\\.Net6Series\\DemoAuth.API\\DemoAuth.Core\\DemoAuth.Core.csproj": {
-              "projectPath": "C:\\Users\\IKECHUKWU\\source\\repos\\.Net6Series\\DemoAuth.API\\DemoAuth.Core\\DemoAuth.Core.csproj"
+            "C:\\Users\\IKECHUKWU\\source\\repos\\.Net6Series\\jwt_authentication_Net6\\DemoAuth.API\\DemoAuth.Core\\DemoAuth.Core.csproj": {
+              "projectPath": "C:\\Users\\IKECHUKWU\\source\\repos\\.Net6Series\\jwt_authentication_Net6\\DemoAuth.API\\DemoAuth.Core\\DemoAuth.Core.csproj"
             },
-            "C:\\Users\\IKECHUKWU\\source\\repos\\.Net6Series\\DemoAuth.API\\DemoAuth.DB\\DemoAuth.DB.csproj": {
-              "projectPath": "C:\\Users\\IKECHUKWU\\source\\repos\\.Net6Series\\DemoAuth.API\\DemoAuth.DB\\DemoAuth.DB.csproj"
+            "C:\\Users\\IKECHUKWU\\source\\repos\\.Net6Series\\jwt_authentication_Net6\\DemoAuth.API\\DemoAuth.DB\\DemoAuth.DB.csproj": {
+              "projectPath": "C:\\Users\\IKECHUKWU\\source\\repos\\.Net6Series\\jwt_authentication_Net6\\DemoAuth.API\\DemoAuth.DB\\DemoAuth.DB.csproj"
             }
           }
         }

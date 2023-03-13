@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = DemoAuth.DB
-build_property.ProjectDir = C:\Users\IKECHUKWU\source\repos\.Net6Series\DemoAuth.API\DemoAuth.DB\
+build_property.ProjectDir = C:\Users\IKECHUKWU\source\repos\.Net6Series\jwt_authentication_Net6\DemoAuth.API\DemoAuth.DB\

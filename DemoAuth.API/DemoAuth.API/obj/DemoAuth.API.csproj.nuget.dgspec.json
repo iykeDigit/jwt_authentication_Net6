@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\IKECHUKWU\\source\\repos\\.Net6Series\\DemoAuth.API\\DemoAuth.API\\DemoAuth.API.csproj": {}
+    "C:\\Users\\IKECHUKWU\\source\\repos\\.Net6Series\\jwt_authentication_Net6\\DemoAuth.API\\DemoAuth.API\\DemoAuth.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\IKECHUKWU\\source\\repos\\.Net6Series\\DemoAuth.API\\DemoAuth.API\\DemoAuth.API.csproj": {
+    "C:\\Users\\IKECHUKWU\\source\\repos\\.Net6Series\\jwt_authentication_Net6\\DemoAuth.API\\DemoAuth.API\\DemoAuth.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\IKECHUKWU\\source\\repos\\.Net6Series\\DemoAuth.API\\DemoAuth.API\\DemoAuth.API.csproj",
+        "projectUniqueName": "C:\\Users\\IKECHUKWU\\source\\repos\\.Net6Series\\jwt_authentication_Net6\\DemoAuth.API\\DemoAuth.API\\DemoAuth.API.csproj",
         "projectName": "DemoAuth.API",
-        "projectPath": "C:\\Users\\IKECHUKWU\\source\\repos\\.Net6Series\\DemoAuth.API\\DemoAuth.API\\DemoAuth.API.csproj",
+        "projectPath": "C:\\Users\\IKECHUKWU\\source\\repos\\.Net6Series\\jwt_authentication_Net6\\DemoAuth.API\\DemoAuth.API\\DemoAuth.API.csproj",
         "packagesPath": "C:\\Users\\IKECHUKWU\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\IKECHUKWU\\source\\repos\\.Net6Series\\DemoAuth.API\\DemoAuth.API\\obj\\",
+        "outputPath": "C:\\Users\\IKECHUKWU\\source\\repos\\.Net6Series\\jwt_authentication_Net6\\DemoAuth.API\\DemoAuth.API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -33,11 +33,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\IKECHUKWU\\source\\repos\\.Net6Series\\DemoAuth.API\\DemoAuth.Core\\DemoAuth.Core.csproj": {
-                "projectPath": "C:\\Users\\IKECHUKWU\\source\\repos\\.Net6Series\\DemoAuth.API\\DemoAuth.Core\\DemoAuth.Core.csproj"
+              "C:\\Users\\IKECHUKWU\\source\\repos\\.Net6Series\\jwt_authentication_Net6\\DemoAuth.API\\DemoAuth.Core\\DemoAuth.Core.csproj": {
+                "projectPath": "C:\\Users\\IKECHUKWU\\source\\repos\\.Net6Series\\jwt_authentication_Net6\\DemoAuth.API\\DemoAuth.Core\\DemoAuth.Core.csproj"
               },
-              "C:\\Users\\IKECHUKWU\\source\\repos\\.Net6Series\\DemoAuth.API\\DemoAuth.DB\\DemoAuth.DB.csproj": {
-                "projectPath": "C:\\Users\\IKECHUKWU\\source\\repos\\.Net6Series\\DemoAuth.API\\DemoAuth.DB\\DemoAuth.DB.csproj"
+              "C:\\Users\\IKECHUKWU\\source\\repos\\.Net6Series\\jwt_authentication_Net6\\DemoAuth.API\\DemoAuth.DB\\DemoAuth.DB.csproj": {
+                "projectPath": "C:\\Users\\IKECHUKWU\\source\\repos\\.Net6Series\\jwt_authentication_Net6\\DemoAuth.API\\DemoAuth.DB\\DemoAuth.DB.csproj"
               }
             }
           }
@@ -90,14 +90,14 @@
         }
       }
     },
-    "C:\\Users\\IKECHUKWU\\source\\repos\\.Net6Series\\DemoAuth.API\\DemoAuth.Core\\DemoAuth.Core.csproj": {
+    "C:\\Users\\IKECHUKWU\\source\\repos\\.Net6Series\\jwt_authentication_Net6\\DemoAuth.API\\DemoAuth.Core\\DemoAuth.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\IKECHUKWU\\source\\repos\\.Net6Series\\DemoAuth.API\\DemoAuth.Core\\DemoAuth.Core.csproj",
+        "projectUniqueName": "C:\\Users\\IKECHUKWU\\source\\repos\\.Net6Series\\jwt_authentication_Net6\\DemoAuth.API\\DemoAuth.Core\\DemoAuth.Core.csproj",
         "projectName": "DemoAuth.Core",
-        "projectPath": "C:\\Users\\IKECHUKWU\\source\\repos\\.Net6Series\\DemoAuth.API\\DemoAuth.Core\\DemoAuth.Core.csproj",
+        "projectPath": "C:\\Users\\IKECHUKWU\\source\\repos\\.Net6Series\\jwt_authentication_Net6\\DemoAuth.API\\DemoAuth.Core\\DemoAuth.Core.csproj",
         "packagesPath": "C:\\Users\\IKECHUKWU\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\IKECHUKWU\\source\\repos\\.Net6Series\\DemoAuth.API\\DemoAuth.Core\\obj\\",
+        "outputPath": "C:\\Users\\IKECHUKWU\\source\\repos\\.Net6Series\\jwt_authentication_Net6\\DemoAuth.API\\DemoAuth.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -119,8 +119,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\IKECHUKWU\\source\\repos\\.Net6Series\\DemoAuth.API\\DemoAuth.DB\\DemoAuth.DB.csproj": {
-                "projectPath": "C:\\Users\\IKECHUKWU\\source\\repos\\.Net6Series\\DemoAuth.API\\DemoAuth.DB\\DemoAuth.DB.csproj"
+              "C:\\Users\\IKECHUKWU\\source\\repos\\.Net6Series\\jwt_authentication_Net6\\DemoAuth.API\\DemoAuth.DB\\DemoAuth.DB.csproj": {
+                "projectPath": "C:\\Users\\IKECHUKWU\\source\\repos\\.Net6Series\\jwt_authentication_Net6\\DemoAuth.API\\DemoAuth.DB\\DemoAuth.DB.csproj"
               }
             }
           }
@@ -168,14 +168,14 @@
         }
       }
     },
-    "C:\\Users\\IKECHUKWU\\source\\repos\\.Net6Series\\DemoAuth.API\\DemoAuth.DB\\DemoAuth.DB.csproj": {
+    "C:\\Users\\IKECHUKWU\\source\\repos\\.Net6Series\\jwt_authentication_Net6\\DemoAuth.API\\DemoAuth.DB\\DemoAuth.DB.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\IKECHUKWU\\source\\repos\\.Net6Series\\DemoAuth.API\\DemoAuth.DB\\DemoAuth.DB.csproj",
+        "projectUniqueName": "C:\\Users\\IKECHUKWU\\source\\repos\\.Net6Series\\jwt_authentication_Net6\\DemoAuth.API\\DemoAuth.DB\\DemoAuth.DB.csproj",
         "projectName": "DemoAuth.DB",
-        "projectPath": "C:\\Users\\IKECHUKWU\\source\\repos\\.Net6Series\\DemoAuth.API\\DemoAuth.DB\\DemoAuth.DB.csproj",
+        "projectPath": "C:\\Users\\IKECHUKWU\\source\\repos\\.Net6Series\\jwt_authentication_Net6\\DemoAuth.API\\DemoAuth.DB\\DemoAuth.DB.csproj",
         "packagesPath": "C:\\Users\\IKECHUKWU\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\IKECHUKWU\\source\\repos\\.Net6Series\\DemoAuth.API\\DemoAuth.DB\\obj\\",
+        "outputPath": "C:\\Users\\IKECHUKWU\\source\\repos\\.Net6Series\\jwt_authentication_Net6\\DemoAuth.API\\DemoAuth.DB\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -197,8 +197,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\IKECHUKWU\\source\\repos\\.Net6Series\\DemoAuth.API\\DemoAuth.Models\\DemoAuth.Models.csproj": {
-                "projectPath": "C:\\Users\\IKECHUKWU\\source\\repos\\.Net6Series\\DemoAuth.API\\DemoAuth.Models\\DemoAuth.Models.csproj"
+              "C:\\Users\\IKECHUKWU\\source\\repos\\.Net6Series\\jwt_authentication_Net6\\DemoAuth.API\\DemoAuth.Models\\DemoAuth.Models.csproj": {
+                "projectPath": "C:\\Users\\IKECHUKWU\\source\\repos\\.Net6Series\\jwt_authentication_Net6\\DemoAuth.API\\DemoAuth.Models\\DemoAuth.Models.csproj"
               }
             }
           }
@@ -254,14 +254,14 @@
         }
       }
     },
-    "C:\\Users\\IKECHUKWU\\source\\repos\\.Net6Series\\DemoAuth.API\\DemoAuth.Models\\DemoAuth.Models.csproj": {
+    "C:\\Users\\IKECHUKWU\\source\\repos\\.Net6Series\\jwt_authentication_Net6\\DemoAuth.API\\DemoAuth.Models\\DemoAuth.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\IKECHUKWU\\source\\repos\\.Net6Series\\DemoAuth.API\\DemoAuth.Models\\DemoAuth.Models.csproj",
+        "projectUniqueName": "C:\\Users\\IKECHUKWU\\source\\repos\\.Net6Series\\jwt_authentication_Net6\\DemoAuth.API\\DemoAuth.Models\\DemoAuth.Models.csproj",
         "projectName": "DemoAuth.Models",
-        "projectPath": "C:\\Users\\IKECHUKWU\\source\\repos\\.Net6Series\\DemoAuth.API\\DemoAuth.Models\\DemoAuth.Models.csproj",
+        "projectPath": "C:\\Users\\IKECHUKWU\\source\\repos\\.Net6Series\\jwt_authentication_Net6\\DemoAuth.API\\DemoAuth.Models\\DemoAuth.Models.csproj",
         "packagesPath": "C:\\Users\\IKECHUKWU\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\IKECHUKWU\\source\\repos\\.Net6Series\\DemoAuth.API\\DemoAuth.Models\\obj\\",
+        "outputPath": "C:\\Users\\IKECHUKWU\\source\\repos\\.Net6Series\\jwt_authentication_Net6\\DemoAuth.API\\DemoAuth.Models\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

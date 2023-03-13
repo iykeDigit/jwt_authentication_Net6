@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GqR7fkF0PQyYgWH6825pdVHk9iV2XNMo05PCQKzY8zs0blKZL9aq8fTAvJA5wIC1tOT8wdx+QDcTw0Blns+XBA==",
+  "dgSpecHash": "hrp2dWTG5uF3jzX6/S+eu6ZNiFGq9OsmIptUcT2xAnYVGuwjaqWtXZ6ZAEvPTkJsljqggF/BbwQma0d5X9hrRQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\IKECHUKWU\\source\\repos\\.Net6Series\\DemoAuth.API\\DemoAuth.DB\\DemoAuth.DB.csproj",
+  "projectFilePath": "C:\\Users\\IKECHUKWU\\source\\repos\\.Net6Series\\jwt_authentication_Net6\\DemoAuth.API\\DemoAuth.DB\\DemoAuth.DB.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\IKECHUKWU\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\IKECHUKWU\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\6.0.14\\microsoft.aspnetcore.cryptography.internal.6.0.14.nupkg.sha512",

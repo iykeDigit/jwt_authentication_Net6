@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xNyKxy8OiAe2khwz2R2+bAhYmqFScp81xV/hckwSHCrcT77pHUr/TWTxTVumLXfsiTb2OT+kVo1YKuTbxF7kpg==",
+  "dgSpecHash": "zXLTTCXuBxcvt2ThanOMgRsRM9YncPbEjAW+Kww4ZM0fiSs/NmywjD88fwki6xlkPYN+oPaQytj8fivyQIBmsA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\IKECHUKWU\\source\\repos\\.Net6Series\\DemoAuth.API\\DemoAuth.API\\DemoAuth.API.csproj",
+  "projectFilePath": "C:\\Users\\IKECHUKWU\\source\\repos\\.Net6Series\\jwt_authentication_Net6\\DemoAuth.API\\DemoAuth.API\\DemoAuth.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\IKECHUKWU\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\IKECHUKWU\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\6.0.14\\microsoft.aspnetcore.authentication.jwtbearer.6.0.14.nupkg.sha512",
