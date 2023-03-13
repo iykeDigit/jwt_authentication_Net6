@@ -10,3 +10,15 @@ C:\Users\IKECHUKWU\source\repos\.Net6Series\DemoAuth.API\DemoAuth.Models\obj\Deb
 C:\Users\IKECHUKWU\source\repos\.Net6Series\DemoAuth.API\DemoAuth.Models\obj\Debug\net6.0\refint\DemoAuth.Models.dll
 C:\Users\IKECHUKWU\source\repos\.Net6Series\DemoAuth.API\DemoAuth.Models\obj\Debug\net6.0\DemoAuth.Models.pdb
 C:\Users\IKECHUKWU\source\repos\.Net6Series\DemoAuth.API\DemoAuth.Models\obj\Debug\net6.0\ref\DemoAuth.Models.dll
+C:\Users\IKECHUKWU\source\repos\.Net6Series\jwt_authentication_Net6\DemoAuth.API\DemoAuth.Models\bin\Debug\net6.0\DemoAuth.Models.deps.json
+C:\Users\IKECHUKWU\source\repos\.Net6Series\jwt_authentication_Net6\DemoAuth.API\DemoAuth.Models\bin\Debug\net6.0\DemoAuth.Models.dll
+C:\Users\IKECHUKWU\source\repos\.Net6Series\jwt_authentication_Net6\DemoAuth.API\DemoAuth.Models\bin\Debug\net6.0\DemoAuth.Models.pdb
+C:\Users\IKECHUKWU\source\repos\.Net6Series\jwt_authentication_Net6\DemoAuth.API\DemoAuth.Models\obj\Debug\net6.0\DemoAuth.Models.csproj.AssemblyReference.cache
+C:\Users\IKECHUKWU\source\repos\.Net6Series\jwt_authentication_Net6\DemoAuth.API\DemoAuth.Models\obj\Debug\net6.0\DemoAuth.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IKECHUKWU\source\repos\.Net6Series\jwt_authentication_Net6\DemoAuth.API\DemoAuth.Models\obj\Debug\net6.0\DemoAuth.Models.AssemblyInfoInputs.cache
+C:\Users\IKECHUKWU\source\repos\.Net6Series\jwt_authentication_Net6\DemoAuth.API\DemoAuth.Models\obj\Debug\net6.0\DemoAuth.Models.AssemblyInfo.cs
+C:\Users\IKECHUKWU\source\repos\.Net6Series\jwt_authentication_Net6\DemoAuth.API\DemoAuth.Models\obj\Debug\net6.0\DemoAuth.Models.csproj.CoreCompileInputs.cache
+C:\Users\IKECHUKWU\source\repos\.Net6Series\jwt_authentication_Net6\DemoAuth.API\DemoAuth.Models\obj\Debug\net6.0\DemoAuth.Models.dll
+C:\Users\IKECHUKWU\source\repos\.Net6Series\jwt_authentication_Net6\DemoAuth.API\DemoAuth.Models\obj\Debug\net6.0\refint\DemoAuth.Models.dll
+C:\Users\IKECHUKWU\source\repos\.Net6Series\jwt_authentication_Net6\DemoAuth.API\DemoAuth.Models\obj\Debug\net6.0\DemoAuth.Models.pdb
+C:\Users\IKECHUKWU\source\repos\.Net6Series\jwt_authentication_Net6\DemoAuth.API\DemoAuth.Models\obj\Debug\net6.0\ref\DemoAuth.Models.dll
