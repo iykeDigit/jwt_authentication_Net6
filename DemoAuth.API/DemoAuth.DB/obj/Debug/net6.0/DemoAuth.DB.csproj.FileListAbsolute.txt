@@ -1,0 +1,17 @@
+C:\Users\IKECHUKWU\source\repos\.Net6Series\DemoAuth.API\DemoAuth.DB\bin\Debug\net6.0\DemoAuth.DB.deps.json
+C:\Users\IKECHUKWU\source\repos\.Net6Series\DemoAuth.API\DemoAuth.DB\bin\Debug\net6.0\DemoAuth.DB.runtimeconfig.json
+C:\Users\IKECHUKWU\source\repos\.Net6Series\DemoAuth.API\DemoAuth.DB\bin\Debug\net6.0\DemoAuth.DB.dll
+C:\Users\IKECHUKWU\source\repos\.Net6Series\DemoAuth.API\DemoAuth.DB\bin\Debug\net6.0\DemoAuth.DB.pdb
+C:\Users\IKECHUKWU\source\repos\.Net6Series\DemoAuth.API\DemoAuth.DB\bin\Debug\net6.0\DemoAuth.Models.dll
+C:\Users\IKECHUKWU\source\repos\.Net6Series\DemoAuth.API\DemoAuth.DB\bin\Debug\net6.0\DemoAuth.Models.pdb
+C:\Users\IKECHUKWU\source\repos\.Net6Series\DemoAuth.API\DemoAuth.DB\obj\Debug\net6.0\DemoAuth.DB.csproj.AssemblyReference.cache
+C:\Users\IKECHUKWU\source\repos\.Net6Series\DemoAuth.API\DemoAuth.DB\obj\Debug\net6.0\DemoAuth.DB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IKECHUKWU\source\repos\.Net6Series\DemoAuth.API\DemoAuth.DB\obj\Debug\net6.0\DemoAuth.DB.AssemblyInfoInputs.cache
+C:\Users\IKECHUKWU\source\repos\.Net6Series\DemoAuth.API\DemoAuth.DB\obj\Debug\net6.0\DemoAuth.DB.AssemblyInfo.cs
+C:\Users\IKECHUKWU\source\repos\.Net6Series\DemoAuth.API\DemoAuth.DB\obj\Debug\net6.0\DemoAuth.DB.csproj.CoreCompileInputs.cache
+C:\Users\IKECHUKWU\source\repos\.Net6Series\DemoAuth.API\DemoAuth.DB\obj\Debug\net6.0\DemoAuth.DB.csproj.CopyComplete
+C:\Users\IKECHUKWU\source\repos\.Net6Series\DemoAuth.API\DemoAuth.DB\obj\Debug\net6.0\DemoAuth.DB.dll
+C:\Users\IKECHUKWU\source\repos\.Net6Series\DemoAuth.API\DemoAuth.DB\obj\Debug\net6.0\refint\DemoAuth.DB.dll
+C:\Users\IKECHUKWU\source\repos\.Net6Series\DemoAuth.API\DemoAuth.DB\obj\Debug\net6.0\DemoAuth.DB.pdb
+C:\Users\IKECHUKWU\source\repos\.Net6Series\DemoAuth.API\DemoAuth.DB\obj\Debug\net6.0\DemoAuth.DB.genruntimeconfig.cache
+C:\Users\IKECHUKWU\source\repos\.Net6Series\DemoAuth.API\DemoAuth.DB\obj\Debug\net6.0\ref\DemoAuth.DB.dll

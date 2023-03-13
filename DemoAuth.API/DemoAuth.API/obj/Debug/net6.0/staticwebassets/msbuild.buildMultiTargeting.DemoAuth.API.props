@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\DemoAuth.API.props" />
+</Project>
